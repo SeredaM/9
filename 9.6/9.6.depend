@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607252628 source:c:\users\mixa\desktop\Лабы прога\9.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
