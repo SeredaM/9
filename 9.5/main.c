@@ -60,7 +60,7 @@ int main()
    for (int i=0;i<h;i++)
     {
         a=m[w*i+w-1]/m[w*i+i];
-        printf("\n x[%d]=%f \n ",i,a);
+        printf("\n x[%d]=%.3f \n ",i,a);
     }
     return 0;
 }
